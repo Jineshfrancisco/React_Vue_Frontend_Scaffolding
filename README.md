@@ -43,4 +43,5 @@ if you don't want to use `Vue` comment below lines
 
 4- Run `npm install`  
 5- Link `css and js` files into `view` file
+
 6- run  `npm run watch` or `npm run prod`
