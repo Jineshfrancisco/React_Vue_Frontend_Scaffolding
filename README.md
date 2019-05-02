@@ -57,7 +57,7 @@ if you don't want to use `Vue` remove  below lines from package.json file
  
 	 >remove Line comment  `window._ = require('lodash');` and `require('./vue');`
  
- also comment Line `require('./react/Index');`
+ >also comment Line `require('./react/Index');`
 
 	>if you want to use other js libraries such as **Axios** , **lodash**, **Bootstrap** or **Materialize-css** ...etc remove the Comment in appropriate line....
 
