@@ -40,6 +40,7 @@ if you don't want to use `Vue` remove  below lines from package.json file
 	 >by default its configured for  react ... 
 	 
 	 >if you don't want to use `Vue` remove  below lines from **package.json** file
+	 
 	`"vue": "^2.6.10",`
 	`"vue-template-compiler": "^2.6.10"`
 
