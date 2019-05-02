@@ -24,9 +24,9 @@ if you don't want to use `Vue` comment below lines
 
      "vue": "^2.6.10",
     "vue-template-compiler": "^2.6.10"
-============================
+=========================================
     or if you don't need `React` comment below lines
-    ============================
+   =================================
    
 
      "@babel/preset-react": "^7.0.0",
