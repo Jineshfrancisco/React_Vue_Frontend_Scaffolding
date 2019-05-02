@@ -56,19 +56,32 @@ if you don't want to use `Vue` remove  below lines from package.json file
 	 >and open `app.js` file in folder  `resources/js/app.js`
  
 	 >remove Line comment  `window._ = require('lodash');` and `require('./vue');`
- 	>also comment Line `require('./react/Index');`
+ and comment Line `require('./react/Index');`
 
-	>if you want to use other js libraries such as **Axios** , **lodash**, **Bootstrap** or **Materialize-css** ...etc
-	>remove the Comment in appropriate line....
+	if you want to use other js libraries such as **Axios** , **lodash**, **Bootstrap** or **Materialize-css** ...etc remove the Comment in appropriate line....
+
+- **CSS FrameWork**  
+	- >**7-1 Sass Architecture** (default configuration)
+	- > It a good idea to write custom css using scss... 
+	- >more about [7-1 Sass Architecture](https://sass-guidelin.es/)
+	- >**Twitter Bootstrap**  
+	- - > open app.scss file from `resources\sass\app.scss`
+	- - > remove Line comment  `@import './vendor/bootstrap';`
+	- - > if you want to use  `Bootstrap.js`  goto `resources\js\app.js` remove Line comment `require('./bootstrap');`
+	 - - > jquery and popper.js are bootsrtap dependencies
+		
+
+	- >**Materialize-css** 
+	- - > open app.scss file from `resources\sass\app.scss`
+	- - > remove Line comment  `@import './vendor/materialize';`
+	- - > if you want to use  `materialize.js`  goto `resources\js\app.js` remove Line comment `require('./materialize');`
+- 
 
 - Link `css and js` files into `view` file
 	
 	>`<link rel="stylesheet" href="<?php echo base_url(); ?>public/css/style.css">`
-	
 	and 
-	
 	>`<script src="<?php echo base_url(); ?>public/js/main.js"></script>`
-	
 	>add **url** helper in  `autoload.php `   
 
 - run  `npm run watch` or `npm run prod` 
