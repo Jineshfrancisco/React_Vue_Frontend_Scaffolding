@@ -79,9 +79,8 @@ if you don't want to use `Vue` remove  below lines from package.json file
 	- - > open app.scss file from `resources\sass\app.scss`
 	- - > remove Line comment  `@import './vendor/materialize';`
 	- - > if you want to use  `materialize.js`  goto `resources\js\app.js` remove Line comment `require('./materialize');`
-- 
-		- >**warning** Cross-site Scripting (XSS)-Affecting materialize-css
-		- > vulnerability can arise when user input is provided to the `tooltip` [more About](https://snyk.io/vuln/SNYK-JS-MATERIALIZECSS-174148)
+- - >**warning** Cross-site Scripting (XSS)-Affecting materialize-css
+- > vulnerability can arise when user input is provided to the `tooltip` [more About](https://snyk.io/vuln/SNYK-JS-MATERIALIZECSS-174148)
 
 - Link `css and js` files into `view` file
 	
