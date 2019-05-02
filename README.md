@@ -18,8 +18,11 @@ laravel like Front-end scaffolding using npm package **[laravel-mix](https://git
 ## Usage
 
 1- Download   **Codeigniter latest Version** and unzip it .
+
 2- Clone or Download the Repository into  codeigniter folder..
+
 3- Open `package.json` file in text editor comment unnecessary packages...
+
     
 if you don't want to use `Vue` comment below lines
 
