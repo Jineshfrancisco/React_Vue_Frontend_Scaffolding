@@ -38,7 +38,8 @@ if you don't want to use `Vue` remove  below lines from package.json file
  - Run `npm install`  
  -  **For  React**
 	 >by default its configured for  react ... 
-	 if you don't want to use `Vue` remove  below lines from **package.json** file
+	 
+	 >if you don't want to use `Vue` remove  below lines from **package.json** file
 	`"vue": "^2.6.10",`
 	`"vue-template-compiler": "^2.6.10"`
 
@@ -80,8 +81,11 @@ if you don't want to use `Vue` remove  below lines from package.json file
 - Link `css and js` files into `view` file
 	
 	>`<link rel="stylesheet" href="<?php echo base_url(); ?>public/css/style.css">`
+	
 	and 
+	
 	>`<script src="<?php echo base_url(); ?>public/js/main.js"></script>`
+	
 	>add **url** helper in  `autoload.php `   
 
 - run  `npm run watch` or `npm run prod` 
