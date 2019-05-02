@@ -64,6 +64,7 @@ if you don't want to use `Vue` remove  below lines from package.json file
 	
 	>`<link rel="stylesheet" href="<?php echo base_url(); ?>public/css/style.css">`
 	and 
+	
 	>`<script src="<?php echo base_url(); ?>public/js/main.js"></script>`
 	>add **url** helper in  `autoload.php `   
 
