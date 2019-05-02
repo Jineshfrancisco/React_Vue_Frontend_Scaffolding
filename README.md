@@ -12,7 +12,8 @@ laravel like Front-end scaffolding using npm package **[laravel-mix](https://git
 
 
     > "Twitter **Bootstrap** / **Materialize-css** " .
-   Custom CSS using sass [7-1 architecture pattern]
+    
+   >Custom CSS using sass [7-1 architecture pattern]
 
 ## Usage
 
