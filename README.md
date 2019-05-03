@@ -2,12 +2,12 @@
 
 > A Simple  **Front-end Scaffolding** using  **React/Vue** for 
 > web Development .. support  PHP, Codeigniter , Django, ASP ...etc   
-> simply link css and js files to your main view
+> simply download and extract into your project , link `style.css` and `main.js` files to your master view 
 
 > `<link rel="stylesheet" href="https://www.yoursite.com/public/css/style.css">`
 
 > `<script src="https://www.yoursite.com/public/js/main.js"></script>`
->
+> done
 
 # Introduction
 
@@ -23,7 +23,7 @@ laravel like Front-end scaffolding using npm package **[laravel-mix](https://git
    >Custom CSS using sass [7-1 architecture pattern]
 
 ## Usage
-- **demonstration using Codeigniter **
+- **Codeigniter using for demonstration**
 - Download   **Codeigniter latest Version** and unzip it .
 - Clone or Download the Repository into  codeigniter folder..
 - Open `package.json` file in a text editor remove unnecessary packages...
