@@ -2,8 +2,10 @@
 
 > A Simple  **Front-end Scaffolding** using  **React/Vue** for 
 > web Development .. support  PHP, Codeigniter , Django, ASP ...etc   
-> simply link css and js files to your main view 
+> simply link css and js files to your main view
+
 > `<link rel="stylesheet" href="https://www.yoursite.com/public/css/style.css">`
+
 > `<script src="https://www.yoursite.com/public/js/main.js"></script>`
 >
 
