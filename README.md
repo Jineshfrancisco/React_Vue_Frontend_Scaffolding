@@ -11,7 +11,8 @@
 
 # Introduction
 
-React or Vue Front-end Framework top on Codeigniter  ..
+React or Vue Front-end Framework top on other Language  ..
+
 laravel like Front-end scaffolding using npm package **[laravel-mix](https://github.com/JeffreyWay/laravel-mix)** 
 
 - **CSS Frameworks**
@@ -22,7 +23,7 @@ laravel like Front-end scaffolding using npm package **[laravel-mix](https://git
    >Custom CSS using sass [7-1 architecture pattern]
 
 ## Usage
-
+- **demonstration using Codeigniter **
 - Download   **Codeigniter latest Version** and unzip it .
 - Clone or Download the Repository into  codeigniter folder..
 - Open `package.json` file in a text editor remove unnecessary packages...
