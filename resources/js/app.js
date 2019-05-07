@@ -45,7 +45,7 @@
  *
  */
 
-// require('./react/Index');
+ require('./react/Index');
 
 /**
  * ======================
