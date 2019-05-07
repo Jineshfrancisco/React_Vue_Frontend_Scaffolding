@@ -8,7 +8,7 @@ class App extends Component {
 				<Welcome name="Codeigniter - React Application" content="" />
 				<Welcome
 					name=""
-					content="A Simple React Frontend Scaffolding for framework with Bootstrap "
+					content="A Simple React Frontend Scaffolding for your favourite framework with Bootstrap "
 				/>
 				<Welcome
 					name="Codeigniter Version 3.1.10"
