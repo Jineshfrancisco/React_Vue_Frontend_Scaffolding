@@ -8,11 +8,11 @@ class App extends Component {
 				<Welcome name="Codeigniter - React Application" content="" />
 				<Welcome
 					name=""
-					content="A Simple React Frontend Scaffolding for Codeigniter with Bootstrap "
+					content="A Simple React Frontend Scaffolding for framework with Bootstrap "
 				/>
 				<Welcome
-					name="Version 3.1.10"
-					content="Build on Top CodeIgniter Version 3.1.10"
+					name="Codeigniter Version 3.1.10"
+					content="Demo Build on Top CodeIgniter Version 3.1.10"
 				/>
 				<Welcome
 					name="Hello All Have a Nice Day"
